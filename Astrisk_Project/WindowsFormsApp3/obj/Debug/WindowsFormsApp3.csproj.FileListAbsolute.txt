@@ -1,0 +1,32 @@
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MyTab.resources
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FindForm.resources
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\bin\Debug\FastColoredTextBox.dll
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\bin\Debug\FastColoredTextBox.xml
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+D:\progs\MyData\VisualStudio\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+F:\c# project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\c# project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\c# project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\c# project\WindowsFormsApp3\bin\Debug\FastColoredTextBox.dll
+F:\c# project\WindowsFormsApp3\bin\Debug\FastColoredTextBox.xml
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FindForm.resources
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MyTab.resources
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\c# project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

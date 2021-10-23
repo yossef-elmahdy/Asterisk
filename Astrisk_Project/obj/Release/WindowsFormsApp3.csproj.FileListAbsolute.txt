@@ -1,0 +1,16 @@
+F:\c# project\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+F:\c# project\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+F:\c# project\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+F:\c# project\WindowsFormsApp3\bin\Release\FastColoredTextBox.dll
+F:\c# project\WindowsFormsApp3\bin\Release\FastColoredTextBox.xml
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojAssemblyReference.cache
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form2.resources
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.FindForm.resources
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form3.resources
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.MyTab.resources
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CopyComplete
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+F:\c# project\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
