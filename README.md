@@ -4,10 +4,10 @@ It was part of a team project including:
 Hady Lotfy - Youssef El-Mahdy - Abdullah El-Hadidy - Saif Gadallah
 
 ## Content
-- [Overview](#TO-DO)
-- [Main Interface Snapshot](#TO-DO)
-- [Features](#TO-DO)
-- [Used Tools](#TO-DO)
+- [Overview](#overview)
+- [Main Interface Snapshot](#project-snapshots)
+- [Features](#features)
+- [Used Tools](#used-tools)
 
 
 --------------------------------------
@@ -21,9 +21,14 @@ implemented features.
 
 --------------------------------------
 ## Project Snapshots
-![Main Interface](#TO-DO)
+![Main Interface Light Theme](https://github.com/yossef-elmahdy/Asterisk/blob/master/Project_Snapshots/Main_UI_Light.jpg)
 <p align="center">
-    Asterisk Main Interface
+    Asterisk Main Interface Light Theme
+</p>  
+
+![Main Interface Dark Theme](https://github.com/yossef-elmahdy/Asterisk/blob/master/Project_Snapshots/Main_UI_Dark.jpg)
+<p align="center">
+    Asterisk Main Interface Dark Theme
 </p>  
 
 
